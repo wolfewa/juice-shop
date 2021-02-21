@@ -1,4 +1,4 @@
-# ![Juice Shop Logo](https://raw.githubusercontent.com/bkimminich/juice-shop/master/frontend/src/assets/public/images/JuiceShop_Logo_100px.png) OWASP Juice Shop
+# ![Juice Shop Logo](https://raw.githubusercontent.com/bkimminich/juice-shop/master/frontend/src/assets/public/images/JuiceShop_Logo_100px.png) Green Juice (OWASP Juice Shop)
 
 [![OWASP Flagship](https://img.shields.io/badge/owasp-flagship%20project-48A646.svg)](https://owasp.org/projects/#sec-flagships)
 [![GitHub release](https://img.shields.io/github/release/bkimminich/juice-shop.svg)](https://github.com/bkimminich/juice-shop/releases/latest)
@@ -24,6 +24,14 @@
 > ([@kramse](https://twitter.com/kramse)) —
 > [But this doesn't have anything to do with juice.](https://twitter.com/coderPatros/status/1199268774626488320)
 > ([@coderPatros' wife](https://twitter.com/coderPatros))
+
+
+This is a simple skin customization of the OWASP Juice Shop for demo purposes. 
+There is no customizations of the vulnerabilities in the application just some of the text on pages 
+and user data has been changed to support the demo purposes. Everything else about the shop is the same.
+
+
+
 
 OWASP Juice Shop is probably the most modern and sophisticated insecure
 web application! It can be used in security trainings, awareness demos,
