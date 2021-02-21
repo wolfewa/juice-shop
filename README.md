@@ -25,12 +25,9 @@
 > [But this doesn't have anything to do with juice.](https://twitter.com/coderPatros/status/1199268774626488320)
 > ([@coderPatros' wife](https://twitter.com/coderPatros))
 
-
-This is a simple skin customization of the OWASP Juice Shop for demo purposes. 
-There is no customizations of the vulnerabilities in the application just some of the text on pages 
-and user data has been changed to support the demo purposes. Everything else about the shop is the same.
-
-
+This is a simple skin customization of the OWASP Juice Shop for demo purposes.  There is no customizations of the vulnerabilities in
+the application just some of the text on pages and user data has been changed to support the demo purposes.
+Everything else about the shop is the same.
 
 
 OWASP Juice Shop is probably the most modern and sophisticated insecure
